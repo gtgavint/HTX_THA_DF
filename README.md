@@ -37,6 +37,7 @@ git clone https://github.com/gtgavint/HTX_THA_DF.git
 ```
 cd HTX_THA_DF
 ```
+> If unable to git clone, download the file as ZIP
 
 ### 2. Create a virtual environment
 
